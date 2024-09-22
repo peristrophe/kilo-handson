@@ -15,7 +15,8 @@
 				"ccls-project.ccls"
 			],
 			"settings": {
-				"gitlens.hovers.enabled": false
+				"gitlens.hovers.enabled": false,
+				"ccls.codeLens.enabled": false
 			}
 		}
 	}
